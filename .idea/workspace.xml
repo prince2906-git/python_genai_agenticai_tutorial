@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1eb6370d-f93d-4c66-b96d-6fb6963cb5a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DQTestCase_Gen/pdf_ingest_rag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genAI/Level1/Stage1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/numpy_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/numpy_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/numpy_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ollama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pandas_beginner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vector_generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking_fundamentals/.idea/banking_fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../banking_fundamentals/.idea/banking_fundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datastructures/.idea/datastructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructures/.idea/datastructures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../google_cloud_gen_ai_devloper/.idea/google_cloud_gen_ai_devloper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../google_cloud_gen_ai_devloper/.idea/google_cloud_gen_ai_devloper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_genai_agenticai_tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_genai_agenticai_tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../translator/.idea/translator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../translator/.idea/translator.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Professional_Machine_Learning_Engineer_Certification" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yAdteKJRjZjVwebT8kkcvDneHX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.numpy_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ollama.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pdf_ingest_rag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pdf_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyspark.executor&quot;: &quot;Run&quot;,
+    &quot;Python.synthetic_data_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testspark.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uberAnalysis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/prkumarsharma/Desktop/AgentXProject/Customer_Predictive_Analysis&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prkumarsharma\Desktop\git-repos\python_genai_agenticai_tutorial\genAI\Level0" />
+      <recent name="C:\Users\prkumarsharma\Desktop\git-repos\python_genai_agenticai_tutorial" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pyspark" type="PythonConfigurationType" factoryName="Python">
+      <module name="pyspark" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pyspark_learning)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eb6370d-f93d-4c66-b96d-6fb6963cb5a6" name="Changes" comment="" />
+      <created>1749281536529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749281536529</updated>
+    </task>
+    <servers />
+  </component>
+</project>

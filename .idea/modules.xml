@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../AgentXProject/Customer_Predictive_Analysis/.idea/Customer_Predictive_Analysis.iml" filepath="$PROJECT_DIR$/../../AgentXProject/Customer_Predictive_Analysis/.idea/Customer_Predictive_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../DataGeneration/.idea/DataGeneration.iml" filepath="$PROJECT_DIR$/../../DataGeneration/.idea/DataGeneration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/git-repos.iml" filepath="$PROJECT_DIR$/../.idea/git-repos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pyspark/.idea/pyspark.iml" filepath="$PROJECT_DIR$/../../pyspark/.idea/pyspark.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_genai_agenticai_tutorial.iml" filepath="$PROJECT_DIR$/.idea/python_genai_agenticai_tutorial.iml" />
     </modules>
   </component>

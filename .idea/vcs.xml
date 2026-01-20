@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Professional_Machine_Learning_Engineer_Certification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../banking_fundamentals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../datastructures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../google_cloud_gen_ai_devloper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../training-data-analyst" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../translator" vcs="Git" />
+  </component>
+</project>
