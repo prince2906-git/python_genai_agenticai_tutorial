@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1eb6370d-f93d-4c66-b96d-6fb6963cb5a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DQTestCase_Gen/pdf_ingest_rag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genAI/Level0/Stage5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genAI/Level1/Stage1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/numpy_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/numpy_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/numpy_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ollama.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/pandas_beginner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_generation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../banking_fundamentals/.idea/banking_fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../banking_fundamentals/.idea/banking_fundamentals.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../datastructures/.idea/datastructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructures/.idea/datastructures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../google_cloud_gen_ai_devloper/.idea/google_cloud_gen_ai_devloper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../google_cloud_gen_ai_devloper/.idea/google_cloud_gen_ai_devloper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_genai_agenticai_tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_genai_agenticai_tutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../translator/.idea/translator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../translator/.idea/translator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
